@@ -27,6 +27,7 @@ public class MainController extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 			System.out.println("팀원의 수정 1");
+			System.out.println("팀장의 수정 2 충돌");
 	}
 
 	/**
